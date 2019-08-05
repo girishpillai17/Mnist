@@ -12,3 +12,5 @@ I have build a CNN with the following architecture, using Keras’ Sequential AP
     #Each Conv2D layer is followed immediately by a MaxPooling2D layer with a pool_size=(2,2)
     #Followed with a Dense layer with 512 nodes and relu activation
     #Finally, the output layer is a Dense layer with 10 nodes (corresponding to the 10 output classes) and softmax activation function — we use  softmax for multi-class classification
+
+The dataset cab be directly downloaded fro keras with a single line of code
